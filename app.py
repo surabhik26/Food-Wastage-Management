@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine, text
@@ -203,7 +202,6 @@ with st.expander(" Delete Food Listing"):
 # -----------------------------
 # End of App
 # -----------------------------
-=======
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine, text
@@ -408,4 +406,3 @@ with st.expander(" Delete Food Listing"):
 # -----------------------------
 # End of App
 # -----------------------------
->>>>>>> dc39196b8429a0f88431bed4ab53397fe8d9a69f
