@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+streamlit
+pyodbc
+pandas
+sqlalchemy
+=======
+streamlit
+pandas
+pyodbc
+sqlalchemy
+plotly
+
+
+>>>>>>> dc39196b8429a0f88431bed4ab53397fe8d9a69f
